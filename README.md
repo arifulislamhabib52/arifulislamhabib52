@@ -21,7 +21,6 @@ I aim to solve real-world problems through **technology and research**. In the f
 ![Ariful's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArifulIslamHabib&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArifulIslamHabib&layout=compact&theme=radical)  
 
-
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ariful%20Islam-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/ariful-islam-habib/)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-Bybers_-blue?logo=codeforces&style=flat)](https://codeforces.com/profile/Bybers_)  
