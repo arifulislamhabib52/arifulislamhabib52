@@ -9,6 +9,10 @@ I am a passionate **software developer and researcher** with expertise in **prog
 - 📊 **Machine Learning:** Natural Language Processing  
 - 🔥 **Problem Solving:** Codeforces, Leetcode  
 
+## 📱 Apps I'm Developing  
+🚀 **Deep Work** – A productivity-focused app for intense concentration.  
+🚴 **Rickshaw Sharing and Caring** – A ride-sharing app designed for local rickshaw transportation.  
+
 ## 📌 My Goal  
 I aim to solve real-world problems through **technology and research**. In the future, I want to **pursue higher education and research** to expand my knowledge and contribute to innovation.  
 
