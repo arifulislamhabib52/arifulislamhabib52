@@ -17,8 +17,7 @@ I am a passionate **software developer and researcher** with expertise in **prog
 ## 📌 My Goal  
 I aim to solve real-world problems through **technology and research**. In the future, I want to **pursue higher education and research** to expand my knowledge and contribute to innovation.  
 
-## 📊 GitHub Stats  
-![Ariful's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArifulIslamHabib&count_private=true&show_icons=true&theme=radical&hide=stars,prs,issues,contribs)  
+![GitHub followers](https://img.shields.io/github/followers/ArifulIslamHabib?style=social)  
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ariful%20Islam-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/ariful-islam-habib/)  
