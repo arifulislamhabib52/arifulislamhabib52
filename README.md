@@ -4,8 +4,9 @@ I am a passionate **software developer and researcher** with expertise in **prog
 
 ## 🚀 Skills & Expertise  
 - 🖥️ **Programming:** C++, Java, Python  
-- 📱 **Android Development:** Java & Kotlin  
-- 🌐 **Networking:** NS-3, SUMO  
+- 📱 **Android Development:** Java.  
+- 🌐 **Networking:**  Basic Routing And Switching, NS-3, SUMO
+ - 🖥️ **Linux & Server Management:** Linux commands, Red Hat/CentOS 7 server configuration  
 - 📊 **Machine Learning:** Natural Language Processing  
 - 🔥 **Problem Solving:** Codeforces, Leetcode  
 
